@@ -11,5 +11,6 @@ Lien direct vers une image : `https://raw.githubusercontent.com/vaucarre/ippitsu
 | `monde1/decor-reference/` | planches de référence du décor de l'Archipel (v1 technique : cotes, palette, kit ; v2 : ambiance et lieux) |
 | `monde2/personnages-reference/` | ennemis du monde 2 refaits d'après la planche découpée |
 | `bouclier/` | effet de bouclier des ennemis (avant / après) |
+| `ui/barres-pv/` | barres de PV à l'encre : planches des pistes et des 4 propositions vie + encre en haut, avant / après en jeu (PR ippitsu #27) |
 
 Les fichiers gardent le nom de leur passe : le numéro le plus haut est le plus récent.
