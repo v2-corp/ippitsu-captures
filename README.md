@@ -13,5 +13,6 @@ Lien direct vers une image : `https://raw.githubusercontent.com/vaucarre/ippitsu
 | `ui/audit-ux/` | revue UI/UX (PR #26) : `captures/` écrans actuels en rendu Mobile, `refonte/` maquettes de la refonte v3, `planches/` synthèse, priorités, avant / après |
 | `bouclier/` | effet de bouclier des ennemis (avant / après) |
 | `ui/barres-pv/` | barres de PV à l'encre : planches des pistes et des 4 propositions vie + encre en haut, avant / après en jeu (PR ippitsu #27) |
+| `monde1/ennemis-fidelite/` | 12 ennemis du monde 1 rapprochés de leurs images IA : `<ennemi>_planche.jpg` (référence, avant, après), `<ennemi>_44.jpg` (caméra du jeu, avant / après), lissage et couture des membres |
 
 Les fichiers gardent le nom de leur passe : le numéro le plus haut est le plus récent.
