@@ -18,3 +18,5 @@ Lien direct vers une image : `https://raw.githubusercontent.com/vaucarre/ippitsu
 | `vfx-pouvoirs/` | revue des FX des 77 pouvoirs (PR ippitsu fx/revue-pouvoirs) : une planche par école (`feu`, `eau`, `foudre`, `vent`, `ombre`, `encre`, `figures` : icône, 4 instants sur main, 4 sur la branche), `cumul.jpg` (9 pouvoirs actifs, avant / après), `lisere_nuit.jpg` (liseré lilas des pièces sombres en monde de nuit) |
 
 Les fichiers gardent le nom de leur passe : le numéro le plus haut est le plus récent.
+| `nuit-1106/` | nuit du 06/11 : boucliers du héros et des élites, plâtre du hondō (avant / après) |
+| `monde2/` (racine) | refonte du monde 2 : 15 ennemis Meshy, décor, bordure et pont (avant / après) |
