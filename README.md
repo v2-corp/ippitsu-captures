@@ -28,3 +28,4 @@ Les fichiers gardent le nom de leur passe : le numéro le plus haut est le plus 
 | `portes/` | portes de choix (PR ippitsu ui/portes-choix) : sceaux IA avant, trois directions, médaillon-estampe à kamon après |
 | `perf-s24/` | mesures S24 et corrections de fluidité (PR ippitsu perf/s24-*) : monde 10 avant / après, graphes |
 | `store-ads/` | écran d'âge brut du prototype achats + pubs (PR ippitsu feat/store-ads-couche) |
+| `fx-suite/` | suites FX des pouvoirs (PR ippitsu fx/pouvoirs-suite) : `px01_w*` vague de Ressac avant / après, `px12_w*` sceau du pinceau, `px03_px08_w*` Souffle suspendu et voile, `px05_compat` Encre épaisse en Compatibility, `px04_w*` essai de signature d'Ippitsu (écarté) |
