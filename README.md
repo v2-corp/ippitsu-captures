@@ -25,3 +25,4 @@ Les fichiers gardent le nom de leur passe : le numéro le plus haut est le plus 
 | `monde2/` (racine) | refonte du monde 2 : 15 ennemis Meshy, décor, bordure et pont (avant / après) |
 | `textes-store/` | pages du site (PR ippitsu docs/textes-store) : politique de confidentialité FR/EN et support FR/EN, rendu HTML |
 | `magatama/` | maquette de principe de la boutique Magatama (PR ippitsu design/magatama) |
+| `portes/` | portes de choix (PR ippitsu ui/portes-choix) : sceaux IA avant, trois directions, médaillon-estampe à kamon après |
