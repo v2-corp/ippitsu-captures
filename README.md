@@ -6,6 +6,7 @@ Lien direct vers une image : `https://raw.githubusercontent.com/vaucarre/ippitsu
 
 | Dossier | Contenu |
 |---|---|
+| `version-publique/` | interrupteur « version publique » (PR ippitsu feat/version-publique) : options et carte des mondes, à gauche en dev, à droite avec `--public` (mondes 9-11 cachés, pas de MODE DÉVELOPPEUR) |
 | `monde1/personnages-reference/` | ennemis du monde 1 refaits dans Blender : fiche modèle en haut, rendu en bas, scores de fidélité |
 | `monde1/en-jeu/` | captures en jeu du monde 1 (héros et ennemis, rendu Compatibility et Mobile) |
 | `monde1/decor-reference/` | planches de référence du décor de l'Archipel (v1 technique : cotes, palette, kit ; v2 : ambiance et lieux) |
