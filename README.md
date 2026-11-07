@@ -6,6 +6,7 @@ Lien direct vers une image : `https://raw.githubusercontent.com/vaucarre/ippitsu
 
 | Dossier | Contenu |
 |---|---|
+| `retouches-m1-m2/` | retouches de texture des ennemis du monde 2 (PR ippitsu art/retouches-m1-m2) : planches avant / après en jeu (44°, gros plan, face, dos) |
 | `version-publique/` | interrupteur « version publique » (PR ippitsu feat/version-publique) : options et carte des mondes, à gauche en dev, à droite avec `--public` (mondes 9-11 cachés, pas de MODE DÉVELOPPEUR) |
 | `monde1/personnages-reference/` | ennemis du monde 1 refaits dans Blender : fiche modèle en haut, rendu en bas, scores de fidélité |
 | `monde1/en-jeu/` | captures en jeu du monde 1 (héros et ennemis, rendu Compatibility et Mobile) |
