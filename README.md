@@ -27,3 +27,4 @@ Les fichiers gardent le nom de leur passe : le numéro le plus haut est le plus 
 | `magatama/` | maquette de principe de la boutique Magatama (PR ippitsu design/magatama) |
 | `portes/` | portes de choix (PR ippitsu ui/portes-choix) : sceaux IA avant, trois directions, médaillon-estampe à kamon après |
 | `perf-s24/` | mesures S24 et corrections de fluidité (PR ippitsu perf/s24-*) : monde 10 avant / après, graphes |
+| `store-ads/` | écran d'âge brut du prototype achats + pubs (PR ippitsu feat/store-ads-couche) |
