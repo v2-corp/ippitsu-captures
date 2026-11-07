@@ -20,3 +20,4 @@ Lien direct vers une image : `https://raw.githubusercontent.com/vaucarre/ippitsu
 Les fichiers gardent le nom de leur passe : le numéro le plus haut est le plus récent.
 | `nuit-1106/` | nuit du 06/11 : boucliers du héros et des élites, plâtre du hondō (avant / après) |
 | `monde2/` (racine) | refonte du monde 2 : 15 ennemis Meshy, décor, bordure et pont (avant / après) |
+| `textes-store/` | pages du site (PR ippitsu docs/textes-store) : politique de confidentialité FR/EN et support FR/EN, rendu HTML |
