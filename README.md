@@ -16,7 +16,7 @@ Lien direct vers une image : `https://raw.githubusercontent.com/vaucarre/ippitsu
 | `bouclier/` | effet de bouclier des ennemis (avant / après) |
 | `ui/barres-pv/` | barres de PV à l'encre : planches des pistes et des 4 propositions vie + encre en haut, avant / après en jeu (PR ippitsu #27) |
 | `monde1/ennemis-fidelite/` | 12 ennemis du monde 1 rapprochés de leurs images IA : `<ennemi>_planche.jpg` (référence, avant, après), `<ennemi>_44.jpg` (caméra du jeu, avant / après), lissage et couture des membres |
-| `monde1/indigo/` | ennemis du monde 1 passés en indigo (PR ippitsu art/m1-indigo) : `en_jeu_44_avant_apres.jpg` (caméra par défaut), `<ennemi>_proche.jpg` (référence, avant, après), `textures_avant_apres.jpg` |
+| `monde1/indigo/` | ennemis du monde 1 passés en indigo (PR ippitsu art/m1-indigo ; `v2/` : choix de Victor, plus vif, bouclier et casque du samouraï) : `en_jeu_44_avant_apres.jpg` (caméra par défaut), `<ennemi>_proche.jpg` (référence, avant, après), `textures_avant_apres.jpg` |
 | `vfx-pouvoirs/` | revue des FX des 77 pouvoirs (PR ippitsu fx/revue-pouvoirs) : une planche par école (`feu`, `eau`, `foudre`, `vent`, `ombre`, `encre`, `figures` : icône, 4 instants sur main, 4 sur la branche), `cumul.jpg` (9 pouvoirs actifs, avant / après), `lisere_nuit.jpg` (liseré lilas des pièces sombres en monde de nuit) |
 | `vfx-pouvoirs/raiju-synchro/` | Raijū : le chiffre de dégâts tombe à l'arrivée du loup (0,2 s), séquence image par image avant / après (PR ippitsu fix/raiju-synchro) |
 
