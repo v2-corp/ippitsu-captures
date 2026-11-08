@@ -6,6 +6,7 @@ Lien direct vers une image : `https://raw.githubusercontent.com/vaucarre/ippitsu
 
 | Dossier | Contenu |
 |---|---|
+| `m2-salle12/` | bosquets du monde 2 adossés au vide ou à 1 m du bord (PR ippitsu fix/m2-salle12-blocage) : schéma avant / après de l'îlot sud de la salle bloquée |
 | `polices-glyphes/` | polices avec macrons, −, guillemets (PR ippitsu fix/polices-glyphes) : planche des glyphes avant / après sans repli système, carte des mondes |
 | `retouches-m1-m2/` | retouches de texture des ennemis du monde 2 (PR ippitsu art/retouches-m1-m2) : planches avant / après en jeu (44°, gros plan, face, dos) |
 | `version-publique/` | interrupteur « version publique » (PR ippitsu feat/version-publique) : options et carte des mondes, à gauche en dev, à droite avec `--public` (mondes 9-11 cachés, pas de MODE DÉVELOPPEUR) |
