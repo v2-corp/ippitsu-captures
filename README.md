@@ -37,3 +37,4 @@ Les fichiers gardent le nom de leur passe : le numéro le plus haut est le plus 
 | `monde3/p1-troupe/` | monde 3 Érables (id 9), prototype P1 Meshy (PR ippitsu art/monde3-meshy) : plaquette, découpes, vignettes Meshy, avant / après par mob (oni, kappa, tate), garde du tate, combat en jeu avant / après |
 | `monde3/lot-c/` | monde 3 Érables (id 9), gardien Jōnin et boss Oni-musha en Meshy (PR ippitsu art/monde3-lot-c) : plaquettes, avant / après, arènes |
 | `monde3/lot-b/` | monde 3 Érables, shuriken, kunoichi, kamaitachi, konoha en Meshy (PR ippitsu art/monde3-lot-b) : plaquettes, vignettes Meshy, avant / après, combat |
+| `monde3/lot-a/` | monde 3 Érables, samouraïs rouges, épouvantail, ninja au mino, singe ninja et sa bûche (PR ippitsu art/monde3-lot-a) : plaquettes, vignettes Meshy, avant / après, combat |
