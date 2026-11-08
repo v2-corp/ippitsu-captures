@@ -32,3 +32,4 @@ Les fichiers gardent le nom de leur passe : le numéro le plus haut est le plus 
 | `perf-s24/` | mesures S24 et corrections de fluidité (PR ippitsu perf/s24-*) : monde 10 avant / après, graphes |
 | `store-ads/` | écran d'âge brut du prototype achats + pubs (PR ippitsu feat/store-ads-couche) |
 | `fx-suite/` | suites FX des pouvoirs (PR ippitsu fx/pouvoirs-suite) : `px01_w*` vague de Ressac avant / après, `px12_w*` sceau du pinceau, `px03_px08_w*` Souffle suspendu et voile, `px05_compat` Encre épaisse en Compatibility, `px04_w*` essai de signature d'Ippitsu (écarté) |
+| `stele-elite/` | monde 2 (Archipel) : marquage au sol de la stèle réduit et discret, sanctuaire d'oni des élites dans la DA du port (PR ippitsu art/stele-maison-elite) : avant / après, plans entiers et détails `_zoom` |
