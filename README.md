@@ -41,3 +41,4 @@ Les fichiers gardent le nom de leur passe : le numéro le plus haut est le plus 
 | `monde3/lot-d/` | monde 3 Érables, décor du village de la récolte (PR ippitsu art/monde3-decor) : planches, objets, salles avant / après, vues larges |
 | `monde3/lot-e/` | monde 3 Érables, sanctuaire, cour du Jōnin, aire de battage (PR ippitsu art/monde3-arenes) : planche, objets, arènes avant / après |
 | `monde4/` | monde 4 Montagnes de neige (id 3) : plaquettes P1-P5 et décor D1-D3, mobs Meshy, gardienne, Gashadokuro, décor, glaçons et givre (PR ippitsu monde4/integration) |
+| `jouer-1211/` | essai/jouer-1211 : autel des pactes plus lisible, monde 5 Volcan (salle avant / après, yōkai) |
